@@ -1,4 +1,5 @@
-import module1.isPrime as isp
+#import module1.isPrime as isp
+from module1 import isPrime as isp
 import module1.module2.isPrime1 as isp1
 
 print('methods inside module1.isprime ------',dir(isp))

@@ -3,7 +3,7 @@
 
 // json sample
 // xml sample
-// http requests - geo location api
+// http requests - geo location api  - install pip install urllib
 
 // list
 // tuple
@@ -15,4 +15,13 @@
 // class oop
 // class inheritance
 
-// regex sample
+// regex basis and methods
+// regex patterns
+
+
+// numpy - pip install numpy
+
+
+// visualisation 
+-- matplotlib - pyplot -for different graphs , bar plot , line graph , pie , etc
+-- panda - for reading and writing to a csv
